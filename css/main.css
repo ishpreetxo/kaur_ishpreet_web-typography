@@ -1,0 +1,62 @@
+#container{
+    width: 700px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #1b0b01;
+    font-family: 'Playfair Display', serif;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 36px;
+    color: rgb(170, 158, 111);
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+p{
+    color: rgb(144 145 146);
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: 300;
+}
+
+.hidden{
+    display: none;
+}
+
+.dropCap{
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 70px;
+    float: left;
+    margin: 5px 10px 0px 0px;
+}
+
+.floatImgLeft{
+    float: left;
+    margin-right: 20px;
+    padding: 0;
+}
+
+figure{
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.floatImgRight{
+    float: right;
+    margin-left: 20px;
+    padding: 0;
+}
+
+.title{
+    font-weight: 300;
+    font-size: 40px;
+    color: rgb(228, 189, 36);
+    letter-spacing: 1px;
+    text-align: center;
+}
